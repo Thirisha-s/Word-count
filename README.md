@@ -30,12 +30,10 @@ iterate the list and increament the count.
 print the output
 
 ## PROGRAM:
-#program to find number of words
-
-#developed by:s.thirisha
-
-#register number: 22001920
 ```
+#program to find number of words
+#developed by:s.thirisha
+#register number: 22001920
 fname = input('enter file name: ')
 num_words = 0
 with open(fname, 'r') as f:
