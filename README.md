@@ -30,7 +30,7 @@ iterate the list and increament the count.
 print the output
 
 ## PROGRAM:
-```
+```python
 #program to find number of words
 #developed by:s.thirisha
 #register number: 22001920
